@@ -1,0 +1,10 @@
+^C:\USERS\MRARM\DOCUMENTS\CPP\CANDIES\BUILD\CMAKEFILES\84DC0006E847F5E83C4D3F901AAC1C66\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Preview\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/mrarm/Documents/cpp/candies -BC:/Users/mrarm/Documents/cpp/candies/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/mrarm/Documents/cpp/candies/build/Test.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

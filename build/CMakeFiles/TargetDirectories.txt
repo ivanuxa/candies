@@ -1,0 +1,9 @@
+C:/Users/mrarm/Documents/cpp/candies/build/CMakeFiles/Experimental.dir
+C:/Users/mrarm/Documents/cpp/candies/build/CMakeFiles/Nightly.dir
+C:/Users/mrarm/Documents/cpp/candies/build/CMakeFiles/Continuous.dir
+C:/Users/mrarm/Documents/cpp/candies/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/mrarm/Documents/cpp/candies/build/CMakeFiles/Test.dir
+C:/Users/mrarm/Documents/cpp/candies/build/CMakeFiles/PACKAGE.dir
+C:/Users/mrarm/Documents/cpp/candies/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/mrarm/Documents/cpp/candies/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/mrarm/Documents/cpp/candies/build/CMakeFiles/ZERO_CHECK.dir
